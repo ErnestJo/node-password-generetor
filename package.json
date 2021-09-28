@@ -1,0 +1,15 @@
+{
+  "name": "password-geneator",
+  "version": "1.0.0",
+  "description": "This module is based pn generating password according to given instructions by a developer",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "ErnestJo"
+  },
+  "author": "Ernest Joseph",
+  "license": "ISC"
+}
